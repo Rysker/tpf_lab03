@@ -1,3 +1,22 @@
-.modal {
+.modal 
+{
     background: #c6d0ff7a;
+}
+
+.container 
+{
+    max-width: 70% !important;
+    margin: 0 auto;
+}
+
+.bootstrap-select .dropdown-toggle 
+{
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.375rem;
+    border: 1px solid #ced4da;
+    background-color: #fff;
+    color: #212529;
+    height: auto;
 }
